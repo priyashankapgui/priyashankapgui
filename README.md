@@ -1,8 +1,6 @@
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=priyashankapgui&label=Profile%20views&color=0e75b6&style=flat" alt="priyashankapgui" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyashankapgui" alt="priyashankapgui" /></a> </p>
 
 - 🌱 I’m currently learning **MERN stack,Pyothn**
 
