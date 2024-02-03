@@ -26,7 +26,7 @@
 
 
 
-- 🌱 I’m currently learning **MERN stack,Pyothn**
+- 🌱 I’m currently learning **MERN stack,Python**
 
 - 📫 How to reach me **ushanisuru70@gmail.com**
 - --
