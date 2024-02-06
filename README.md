@@ -52,7 +52,8 @@
 	<img src="https://github.com/priyashankapgui/icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="50" height="50"/>  &nbsp;
 	<img src="https://github.com/priyashankapgui/icons/blob/main/icons/PHP-Light.svg" alt="php" width="50" height="50"/>  &nbsp;
 	<img src="https://github.com/priyashankapgui/icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/> &nbsp;
-	<img src="https://github.com/priyashankapgui/icons/blob/main/icons/React-Light.svg" alt="react" width="50" height="50"/> </p>
+	<img src="https://github.com/priyashankapgui/icons/blob/main/icons/React-Light.svg" alt="react" width="50" height="50"/> 
+	<img src="https://github.com/priyashankapgui/icons/blob/main/icons/HTML.svg" alt="html" width="50" height="50"/> </p>
 
 ------
 ## My Statistics
