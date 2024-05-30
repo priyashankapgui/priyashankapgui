@@ -28,7 +28,7 @@
 
 - 🌱 I’m currently learning **MERN stack,Python**
 
-- 📫 How to reach me **ushanisuru70@gmail.com**
+- 📫 How to reach me **priyashankaisuru@gmail.com**
 - --
 
 <h3 align="left">Connect with me:</h3>
