@@ -62,7 +62,7 @@
 
 <p align="left">
   <a href="https://abhigyantrips.dev/">
-  <img width="49.8%" src="https://github-readme-stats.vercel.app/api?username=priyashankapgui&show_icons=true&theme=algolia&border=true" />&nbsp;
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=priyashankapgui&show_icons=true&theme=algolia&border=true" />&nbsp;
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyashankapgui&theme=algolia&border=true" />
    
   </a>
