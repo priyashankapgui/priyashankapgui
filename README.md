@@ -26,7 +26,7 @@
 
 
 
-- 🌱 I’m currently learning **MERN stack,Python**
+- 🌱 I’m currently learning **Spring boot,Python**
 
 - 📫 How to reach me **priyashankaisuru@gmail.com**
 - --
