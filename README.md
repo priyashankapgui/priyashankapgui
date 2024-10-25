@@ -42,8 +42,7 @@
 	<img src="https://github.com/priyashankapgui/icons/blob/main/icons/Blender-Light.svg" alt="blender" width="50" height="50"/> &nbsp;
 	<img src="https://github.com/priyashankapgui/icons/blob/main/icons/C.svg" alt="c" width="50" height="50"/> &nbsp;
 	<img src="https://github.com/priyashankapgui/icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/> &nbsp;
-	<img src="https://github.com/priyashankapgui/icons/blob/main/icons/Figma-Light.svg" alt="figma" width="50" height="50"/> &nbsp;
-	<img src="https://github.com/priyashankapgui/icons/blob/main/icons/Illustrator.svg" alt="illustrator" width="50" height="50"/>  &nbsp; 
+	<img src="https://github.com/priyashankapgui/icons/blob/main/icons/Figma-Light.svg" alt="figma" width="50" height="50"/> &nbsp; 
 	<img src="https://github.com/priyashankapgui/icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/>  &nbsp;
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>  &nbsp; 
 	<img src="https://github.com/priyashankapgui/icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="50" height="50"/>  &nbsp;
