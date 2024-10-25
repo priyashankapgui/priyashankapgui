@@ -50,7 +50,7 @@
 	<img src="https://github.com/priyashankapgui/icons/blob/main/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/>  &nbsp; 
 	<img src="https://github.com/priyashankapgui/icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/>  &nbsp;
 	<img src="https://github.com/priyashankapgui/icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="50" height="50"/>  &nbsp;  
-	<img src="https://github.com/priyashankapgui/icons/blob/main/icons/NextJS-Dark.svg" alt="nextjs" width="50" height="50"/>  &nbsp; 
+	<img src="https://github.com/priyashankapgui/icons/blob/main/icons/NextJS-Light.svg" alt="nextjs" width="50" height="50"/>  &nbsp; 
 	<img src="https://github.com/priyashankapgui/icons/blob/main/icons/PHP-Light.svg" alt="php" width="50" height="50"/>  &nbsp;
 	<img src="https://github.com/priyashankapgui/icons/blob/main/icons/Spring-Dark.svg" alt="spring" width="50" height="50">  &nbsp;
 	<img src="https://github.com/priyashankapgui/icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/> &nbsp;
