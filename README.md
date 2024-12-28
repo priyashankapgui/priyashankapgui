@@ -1,7 +1,7 @@
 <h1 align="center" font-family="Kode Mono"><b>Hi , I'm Ushan Isuru </b><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/47eb2734-addb-46da-b4dd-5e1616cd3853" width="45" ></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kode+Mono&color=cyan&size=34&weight=500&center=true&vCenter=true&width=850&height=100&lines=<+Welcome+to+My+Git+Hub../>;+;{/*+Full-Stack+Developer+*/};/*+University+of+Moratuwa+*/;+Active+Learner+>>>+🧑‍💻;>+>+>+>+🎯"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kode+Mono&color=cyan&size=34&weight=500&center=true&vCenter=true&width=850&height=100&lines=<+Welcome+to+My+Git+Hub../>;+;{/*+Full-Stack+Developer+*/};/*+University+of+Moratuwa+*/;+Active+Learner+>>>+🧑‍💻;"></a>
 	
 </p>
 <br>
