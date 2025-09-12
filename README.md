@@ -46,16 +46,19 @@
 	<img src="https://github.com/priyashankapgui/icons/blob/main/icons/Figma-Light.svg" alt="figma" width="50" height="50"/> &nbsp; 
 	<img src="https://github.com/priyashankapgui/icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/>  &nbsp;
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>  &nbsp; 
+	<img src="https://github.com/priyashankapgui/icons/blob/main/icons/TypeScript.svg" alt="mongodb" width="50" height="50"/>  &nbsp;
 	<img src="https://github.com/priyashankapgui/icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="50" height="50"/>  &nbsp;
-	<img src="https://github.com/priyashankapgui/icons/blob/main/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/>  &nbsp; 
 	<img src="https://github.com/priyashankapgui/icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/>  &nbsp;
 	<img src="https://github.com/priyashankapgui/icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="50" height="50"/>  &nbsp;  
 	<img src="https://github.com/priyashankapgui/icons/blob/main/icons/NextJS-Light.svg" alt="nextjs" width="50" height="50"/>  &nbsp; 
 	<img src="https://github.com/priyashankapgui/icons/blob/main/icons/PostgreSQL-Light.svg" alt="php" width="50" height="50"/>  &nbsp;
 	<img src="https://github.com/priyashankapgui/icons/blob/main/icons/Spring-Dark.svg" alt="spring" width="50" height="50">  &nbsp;
 	<img src="https://github.com/priyashankapgui/icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/> &nbsp;
-	<img src="https://github.com/priyashankapgui/icons/blob/main/icons/React-Light.svg" alt="react" width="50" height="50"/> 
-	<img src="https://github.com/priyashankapgui/icons/blob/main/icons/HTML.svg" alt="html" width="50" height="50"/> </p>
+	<img src="https://github.com/priyashankapgui/icons/blob/main/icons/React-Light.svg" alt="react" width="50" height="50"/> &nbsp;
+	<img src="https://github.com/priyashankapgui/icons/blob/main/icons/HTML.svg" alt="html" width="50" height="50"/> &nbsp;
+	<img src="https://github.com/priyashankapgui/icons/blob/main/icons/VSCode-Light.svg" alt="html" width="50" height="50"/> &nbsp;
+	
+</p>
 
 ------
 ## My Statistics
